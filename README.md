@@ -23,4 +23,4 @@ This repository contains some interfaces of TOURISM website. :blush:
     ```
 
 > [!NOTE]
-> This pages are not responsive for every devices.
+> These pages are not responsive for every devices.
