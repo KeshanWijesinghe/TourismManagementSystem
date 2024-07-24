@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.2);
+    height: 65px;
+}
+
+.logo{
+    margin-left: 20px;
+}
+
+.middle-section{
+    
+}
+
+.btn{
+    font-size: 15px;
+    padding: 0 18px;
+    height: 65px;
+    background-color: transparent;
+    border-style: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.right-section{
+    display: flex;
+    margin-right: 12px;  
+    gap: 10px;
+}
+
+.login-btn{
+    padding: 15px 20px;
+    background-color: green;
+    color: whitesmoke;
+    font-size: 16px;
+    font-weight: bold;
+    border-style: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.login-btn:hover{
+    background-color: rgba(0, 255, 0, 0.596);
+    color: black;
+}
