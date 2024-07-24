@@ -1,6 +1,6 @@
 # TourismManagementSystem
 
-This repository contains some interfaces of TOURISM website.:blush:
+This repository contains some interfaces of TOURISM website. :blush:
 
 ### Features
  + **Home Page**
